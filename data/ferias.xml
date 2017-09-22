@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ferias>
+    <actividade>
+       <nome>O Mistério do Natal</nome>
+       <imgURL>../imagens/actividades/ferias_natal.jpg</imgURL>
+       <descricao>Férias de Natal no Fluviário</descricao>
+       <datas>19 de Dezembro de 2016 a 2 de Janeiro de 2017</datas>
+    </actividade>
+    <actividade>
+       <nome>Carnaval no Rio</nome>
+       <imgURL>../imagens/actividades/ferias_carnaval.jpg</imgURL>
+       <descricao>Carnaval no Fluviário</descricao>
+       <datas>25 de Fevereiro de 2017 a 1 de Março de 2017</datas>
+    </actividade>
+    <actividade>
+       <nome>Os Ovos Arco-Íris</nome>
+       <imgURL>../imagens/actividades/ferias_pascoa.jpg</imgURL>
+       <descricao>Férias da Páscoa no Fluviário</descricao>
+       <datas>3 a 19 de Abril de 2017</datas>
+    </actividade>
+    <actividade>
+       <nome>O Tesouro da Barca do Sol</nome>
+       <imgURL>../imagens/actividades/ferias_verao.jpg</imgURL>
+       <descricao>Férias de Verão no Fluviário</descricao>
+       <datas>17 de Julho de 2017 a 17 de Setembro de 2017</datas>
+    </actividade>
+</ferias>
